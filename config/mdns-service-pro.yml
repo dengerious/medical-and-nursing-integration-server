@@ -1,0 +1,3 @@
+service:
+  active: pro
+  isSendMessage: true

@@ -1,0 +1,3 @@
+service:
+  active: demo
+  isSendMessage: true

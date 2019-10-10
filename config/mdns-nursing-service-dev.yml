@@ -1,0 +1,3 @@
+service:
+  active: dev
+  isSendMessage: false
