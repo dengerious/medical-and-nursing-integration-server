@@ -3,8 +3,8 @@ base:
   mysql:
     ipAddr: 192.168.10.10
     port: 3306
-    username: DEMO(mmU2kFjjTHv8DxZpSjBw91LQYBacIDRW8Gzxtn7Zc6k=33d19245)
-    password: DEMO(2okXwersn+IoWlyHfSp1WAZwzJf/wc2uaKdsrYOdBfGVJbFpesruuQ==5031672c)
+    username: DEMO(CskiKHxhLcspnGpxVkHRiA==c71cc0e6)
+    password: DEMO(QWFCQahugX2X05sW+LFCck3JmNfh1mMm60a49d4d)
     hikari:
       # 池中维护的最小空闲连接数
       minimum-idle: 5
